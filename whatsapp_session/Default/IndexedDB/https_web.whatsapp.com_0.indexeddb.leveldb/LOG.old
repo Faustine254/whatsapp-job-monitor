@@ -1,0 +1,60 @@
+2025/11/03-18:36:31.908 22d8 Reusing MANIFEST C:\Users\Administrator\Desktop\whatsapp-job-monitor\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/11/03-18:36:31.910 22d8 Recovering log #606
+2025/11/03-18:36:32.033 22d8 Reusing old log C:\Users\Administrator\Desktop\whatsapp-job-monitor\whatsapp_session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000606.log 
+2025/11/03-18:36:33.764 30b0 Level-0 table #627: started
+2025/11/03-18:36:33.807 30b0 Level-0 table #627: 771486 bytes OK
+2025/11/03-18:36:33.811 30b0 Delete type=0 #606
+2025/11/03-18:36:33.811 30b0 Manual compaction at level-0 from '\x00*\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00+\x00\x00\x00' @ 0 : 0; will stop at '\x00*\x00\x00\x05' @ 2241880 : 1
+2025/11/03-18:36:33.812 30b0 Compacting 1@0 + 0@1 files
+2025/11/03-18:36:33.836 30b0 Generated table #628@0: 15568 keys, 138964 bytes
+2025/11/03-18:36:33.854 30b0 Generated table #629@0: 11558 keys, 325634 bytes
+2025/11/03-18:36:33.854 30b0 Compacted 1@0 + 0@1 files => 464598 bytes
+2025/11/03-18:36:33.856 30b0 compacted to: files[ 0 2 17 0 0 0 0 ]
+2025/11/03-18:36:33.856 30b0 Delete type=2 #627
+2025/11/03-18:36:33.857 30b0 Manual compaction at level-0 from '\x00*\x00\x00\x05' @ 2241880 : 1 .. '\x00+\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/11/03-18:36:35.627 22d8 Compacting 1@1 + 2@2 files
+2025/11/03-18:36:35.759 22d8 Generated table #630@1: 63928 keys, 2225200 bytes
+2025/11/03-18:36:35.857 22d8 Generated table #631@1: 41698 keys, 2139719 bytes
+2025/11/03-18:36:35.857 22d8 Compacted 1@1 + 2@2 files => 4364919 bytes
+2025/11/03-18:36:35.860 22d8 compacted to: files[ 0 1 17 0 0 0 0 ]
+2025/11/03-18:36:35.861 22d8 Delete type=2 #616
+2025/11/03-18:36:35.861 22d8 Delete type=2 #617
+2025/11/03-18:36:35.861 22d8 Delete type=2 #628
+2025/11/03-18:36:42.057 22d8 Compacting 1@1 + 3@2 files
+2025/11/03-18:36:42.177 22d8 Generated table #632@1: 14803 keys, 2177003 bytes
+2025/11/03-18:36:42.308 22d8 Generated table #633@1: 87871 keys, 2234660 bytes
+2025/11/03-18:36:42.440 22d8 Generated table #634@1: 101960 keys, 2254200 bytes
+2025/11/03-18:36:42.445 22d8 Generated table #635@1: 272 keys, 28359 bytes
+2025/11/03-18:36:42.445 22d8 Compacted 1@1 + 3@2 files => 6694222 bytes
+2025/11/03-18:36:42.450 22d8 compacted to: files[ 0 0 18 0 0 0 0 ]
+2025/11/03-18:36:42.450 22d8 Delete type=2 #613
+2025/11/03-18:36:42.450 22d8 Delete type=2 #614
+2025/11/03-18:36:42.450 22d8 Delete type=2 #615
+2025/11/03-18:36:42.450 22d8 Delete type=2 #629
+2025/11/03-18:36:54.823 3ea0 Level-0 table #637: started
+2025/11/03-18:36:54.881 3ea0 Level-0 table #637: 1181448 bytes OK
+2025/11/03-18:36:54.888 3ea0 Delete type=0 #626
+2025/11/03-18:36:55.882 22d8 Compacting 1@0 + 0@1 files
+2025/11/03-18:36:55.921 22d8 Generated table #638@0: 19782 keys, 302872 bytes
+2025/11/03-18:36:55.945 22d8 Generated table #639@0: 8601 keys, 350590 bytes
+2025/11/03-18:36:55.945 22d8 Compacted 1@0 + 0@1 files => 653462 bytes
+2025/11/03-18:36:55.949 22d8 compacted to: files[ 0 2 18 0 0 0 0 ]
+2025/11/03-18:36:55.950 22d8 Delete type=2 #637
+2025/11/03-18:36:56.947 22d8 Compacting 1@1 + 7@2 files
+2025/11/03-18:36:57.055 22d8 Generated table #640@1: 29856 keys, 2256052 bytes
+2025/11/03-18:36:57.182 22d8 Generated table #641@1: 26685 keys, 2262716 bytes
+2025/11/03-18:36:57.263 22d8 Generated table #642@1: 32917 keys, 2189662 bytes
+2025/11/03-18:36:57.324 22d8 Generated table #643@1: 14874 keys, 2178090 bytes
+2025/11/03-18:36:57.435 22d8 Generated table #644@1: 84067 keys, 2230076 bytes
+2025/11/03-18:36:57.531 22d8 Generated table #645@1: 102450 keys, 2253494 bytes
+2025/11/03-18:36:57.547 22d8 Generated table #646@1: 10380 keys, 260549 bytes
+2025/11/03-18:36:57.548 22d8 Compacted 1@1 + 7@2 files => 13630639 bytes
+2025/11/03-18:36:57.551 22d8 compacted to: files[ 0 1 18 0 0 0 0 ]
+2025/11/03-18:36:57.551 22d8 Delete type=2 #610
+2025/11/03-18:36:57.552 22d8 Delete type=2 #611
+2025/11/03-18:36:57.552 22d8 Delete type=2 #612
+2025/11/03-18:36:57.552 22d8 Delete type=2 #632
+2025/11/03-18:36:57.552 22d8 Delete type=2 #633
+2025/11/03-18:36:57.552 22d8 Delete type=2 #634
+2025/11/03-18:36:57.552 22d8 Delete type=2 #635
+2025/11/03-18:36:57.552 22d8 Delete type=2 #639
