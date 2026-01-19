@@ -335,9 +335,6 @@ This project is for educational purposes. Please ensure you comply with WhatsApp
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Job Detection
-![Detection](screenshots/detection.png)
-
 ### Filters
 ![Filters](screenshots/filters.png)
 
